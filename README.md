@@ -10,9 +10,11 @@ To load Bulgarian Subtitles automatically, set Default Subtitles Langulage to Bu
 
 ## Installation
 
-To install stremio-zamunda addon please visit the following page:
+To install stremio-zamunda addon please visit the following page: https://c0a3c220c521-stremio-zamunda.baby-beamup.club/
 
-https://c0a3c220c521-stremio-zamunda.baby-beamup.club/
+## Bugs / Feature Requests / Questions
+
+This is the innitial release of the addon so don't be surpriced if something doesn't work as expected. If you found any bugs or if you have ideas for improovement or feature requests please report them in the [Issues](https://github.com/svetlozardraganov/stremio-addon-zamunda/issues) or [Discussion](https://github.com/svetlozardraganov/stremio-addon-zamunda/discussions) sections.
 
 # (Bulgarian) Стремио-Аддон-Замунда
 
@@ -26,6 +28,8 @@ https://c0a3c220c521-stremio-zamunda.baby-beamup.club/
 
 ## Инсталацията
 
-За да инсталирате stremio-zamunda моля посетете следната страница:
+За да инсталирате stremio-zamunda моля посетете следната страница: https://c0a3c220c521-stremio-zamunda.baby-beamup.club/
 
-https://c0a3c220c521-stremio-zamunda.baby-beamup.club/
+## Бъгове / Нови функционалности / Въпроси
+
+Това е първата версия на addon-a, не се изненадвайте ако нещо не работи както очаквате. Ако откриете бъгове или ако имате идеи за подобрения или нови функционалности моля споделете ги в [Issues](https://github.com/svetlozardraganov/stremio-addon-zamunda/issues) или [Discussion](https://github.com/svetlozardraganov/stremio-addon-zamunda/discussions) секцийте.
