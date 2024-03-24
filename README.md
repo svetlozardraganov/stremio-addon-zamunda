@@ -11,6 +11,7 @@ To load Bulgarian Subtitles automatically, set Default Subtitles Langulage to Bu
 ## Installation
 
 To install stremio-zamunda addon please visit the following page:
+
 https://c0a3c220c521-stremio-zamunda.baby-beamup.club/
 
 # (Bulgarian) Стремио-Аддон-Замунда
@@ -26,4 +27,5 @@ https://c0a3c220c521-stremio-zamunda.baby-beamup.club/
 ## Инсталацията
 
 За да инсталирате stremio-zamunda моля посетете следната страница:
+
 https://c0a3c220c521-stremio-zamunda.baby-beamup.club/
