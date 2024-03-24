@@ -1,4 +1,4 @@
-# (English) Stremio-Addon-Zamunda
+# (English) Stremio-Zamunda
 
 Stremio addon providing streaming from www.zamunda.net
 
@@ -16,7 +16,7 @@ To install stremio-zamunda addon please visit the following page: https://c0a3c2
 
 This is the innitial release of the addon so don't be surpriced if something doesn't work as expected. If you found any bugs or if you have ideas for improovement or feature requests please report them in the [Issues](https://github.com/svetlozardraganov/stremio-addon-zamunda/issues) or [Discussion](https://github.com/svetlozardraganov/stremio-addon-zamunda/discussions) sections.
 
-# (Bulgarian) Стремио-Аддон-Замунда
+# (Bulgarian) Стремио-Замунда
 
 Приставка за Stremio предоставяща възможност за стриймване от www.zamunda.net (Замунда Нет).
 
@@ -26,7 +26,7 @@ This is the innitial release of the addon so don't be surpriced if something doe
 
 За автоматичното зареждане на БГ-Субтитри е необходимо да конфигурирате Език На Субтитрите По Подразбиране да е Български Език от Настройките на Стремио.
 
-## Инсталацията
+## Инсталация
 
 За да инсталирате stremio-zamunda моля посетете следната страница: https://c0a3c220c521-stremio-zamunda.baby-beamup.club/
 
