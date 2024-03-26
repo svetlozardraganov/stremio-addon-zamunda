@@ -2,7 +2,7 @@
 
 Stremio addon providing streaming from www.zamunda.net
 
-The addon includes support for subtitles from subs.sab.bz and yavka.net. If such are found in the torrent-page, they will be loaded automatically.
+The addon includes support for subtitles from subs.sab.bz, subsunacs.net and yavka.net. If such are found in the torrent-page, they will be loaded automatically.
 
 To load streams with Bulgarian Audio automatically, set Default Audio Track to Bulgarian Language from Stremio Settings.
 
@@ -20,7 +20,7 @@ This is the innitial release of the addon so don't be surpriced if something doe
 
 Приставка за Stremio предоставяща възможност за стриймване от www.zamunda.net (Замунда Нет).
 
-Приставката включва подръжка субтитри от subs.sab.bz и yavka.net. Ако такива бъдат намерени в торент-страницата, те ще бъдат автоматично заредени.
+Приставката включва подръжка субтитри от subs.sab.bz, subsunacs.net и yavka.net. Ако такива бъдат намерени в торент-страницата, те ще бъдат автоматично заредени.
 
 За автоматичното зареждане на БГ-Аудио е необходимо да конфигурирате Аудио По Подразбиране да е Български език от Настройките на Стремио.
 
